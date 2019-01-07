@@ -9,7 +9,7 @@ Used with cheap esp8266 from [dx extreme](http://www.cnx-software.com/2015/12/14
 
 Reference links:
 
-- [DX Extreme](http://www.dx.com/p/esp-12f-iot-2-4g-wi-fi-wireless-development-board-module-w-antenna-ch340g-driver-black-white-425111#.VsrcpD-vEu5)
+- [Ali Express witty cloud](https://www.aliexpress.com/af/witty-cloud.html)
 - [ESP8266 Witty Cloud Board](https://yoursunny.com/t/2016/WittyCloud-first/)
 - [IOT Developer Kit Environment Setup](https://docs.losant.com/getting-started/losant-iot-dev-kits/environment-setup/)
 
